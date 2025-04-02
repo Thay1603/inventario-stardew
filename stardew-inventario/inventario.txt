@@ -1,0 +1,8 @@
+Tomate|999|Muito saboroso e ligeiramente picante, o Tomate possui uma variedade de utilizações culinárias.|https://stardewvalleywiki.com/mediawiki/images/9/9d/Tomato.png
+Cereja|24|É popular, e amadurece mais cedo que a maioria das frutas.|https://stardewvalleywiki.com/mediawiki/images/2/20/Cherry.png
+Girassol|69|Um erro muito comum é acreditar que a flor vira para onde o sol está.|https://stardewvalleywiki.com/mediawiki/images/8/81/Sunflower.png
+Fragmento de Brasa|999|Você pode sentir um brilho quente vindo de dentro da pedra.|https://stardewvalleywiki.com/mediawiki/images/f/fd/Cinder_Shard.png
+Pizza|143|Popular pelos motivos certos.|https://stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png
+Peixe-bolha|12|Esta estranha criatura flutua sobre o fundo do oceano, consumindo qualquer material comestível que estiver em seu caminho.|https://stardewvalleywiki.com/mediawiki/images/7/7f/Blobfish.png
+Estátua de galinha|998|É uma estátua de galinha com base de bronze. Os antigos moradores deste lugar deviam adorar galinhas.|https://stardewvalleywiki.com/mediawiki/images/a/af/Chicken_Statue.png
+Diamante|777|Uma joia rara e valiosa.|https://stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png
